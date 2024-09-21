@@ -1,16 +1,7 @@
 # auctionapp
 
-A new Flutter project.
+Screen shots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-09-21 at 5 01 39 PM (1)](https://github.com/user-attachments/assets/8075ea34-58db-424d-984f-4251c6f4bf1e)
+![WhatsApp Image 2024-09-21 at 5 01 37 PM](https://github.com/user-attachments/assets/fe12b920-981c-4dc4-8af7-99d1f7d3e660)
+![WhatsApp Image 2024-09-21 at 5 01 39 PM](https://github.com/user-attachments/assets/c6e5a2b8-2d99-44ed-b1d4-3f294357d203)
